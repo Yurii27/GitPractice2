@@ -5,6 +5,8 @@ public class AllGood {
 
 
 
-        // I hope everything is GOOD.
+        //I hope everything is Good.
     }
+
+
 }
